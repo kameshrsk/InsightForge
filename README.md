@@ -26,6 +26,8 @@ InsightForge is an intelligent industry analysis platform that combines AI-power
    - Sources relevant datasets
    - Finds implementation guides
    - Curates learning resources
+     
+  ![image](https://github.com/user-attachments/assets/e9260649-be22-4b43-9d67-777d690d02cf)
 
 ## 🚀 Getting Started
 ### Prerequisites
