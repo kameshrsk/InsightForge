@@ -215,7 +215,7 @@ def save_resources_to_markdown(data, company):
 
 
 def main():
-    st.title("Industry Research")
+    st.title("InsightForge")
 
     company_name = st.text_input("Enter the company name:")
 
