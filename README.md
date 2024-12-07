@@ -68,3 +68,15 @@ streamlit run main.py
 - Robust directory management
 - Graceful error reporting
 - User-friendly status updates
+
+## 🎥 Demo Video
+
+   ![Watch Full Demo Video](https://drive.google.com/file/d/1XyZEay2Px6jeH2Bj1TG4VSiPfBEedEGs/view?usp=sharing)
+   
+To view the demo:
+
+Click the link above
+
+If not already signed in, you may need to sign in to your Google account
+
+The video will open in Google Drive's video player
